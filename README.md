@@ -1,2 +1,3 @@
-# haasancoder-demo
-This is my first Git repositry.
+# hassancoder-demo
+This is my first Git repository.
+Author-Muhammadumairhasssan
